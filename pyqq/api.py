@@ -4,7 +4,7 @@ import re
 import time
 from rest import Get,Post
 from algorithm import pwd_encode,get_clientid,get_msgid
-from  Cookie import SmartCookie as Cookie
+from  Cookie import SimpleCookie as Cookie
 from utils import getcookiestr
 import urllib
 import json 
