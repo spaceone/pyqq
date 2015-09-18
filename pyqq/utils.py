@@ -1,6 +1,6 @@
 import unittest
 import unittest
-from  Cookie import SmartCookie as Cookie
+from  Cookie import SimpleCookie as Cookie
 
 def getcookiestr(cookie):
 	items = []
